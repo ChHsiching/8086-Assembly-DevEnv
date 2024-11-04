@@ -1,5 +1,8 @@
 # 8086 Assembly Development Environment
 
+[![CC BY 4.0 License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+
 Please read the original text of this blog post: "[搭建x86汇编语言学习环境](http://blog.csdn.net/sxhelijian/article/details/54845039)"
 
 ## 💡 What's on My Mind
@@ -75,3 +78,5 @@ From this point forward, only steps 3 and 4 will be necessary.
 ## 📜 License
 
 This repository is based on an original article titled '[搭建x86汇编语言学习环境](https://blog.csdn.net/sxhelijian/article/details/54845039)' by [贺利坚](https://helijian.blog.csdn.net/?type=blog), which has been republished under the terms of the [CC-BY-4.0]((https://creativecommons.org/licenses/by/4.0/)) license and is available at https://blog.csdn.net/sxhelijian/article/details/54845039.
+
+![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)
