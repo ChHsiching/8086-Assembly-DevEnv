@@ -1,6 +1,6 @@
 # 8086 Assembly Development Environment
 
-Please read the original text of this blog post: "[搭建x86汇编语言学习环境": http://blog.csdn.net/sxhelijian/article/details/54845039](http://blog.csdn.net/sxhelijian/article/details/54845039)
+Please read the original text of this blog post: "[搭建x86汇编语言学习环境](http://blog.csdn.net/sxhelijian/article/details/54845039)"
 
 ## 💡 What's on My Mind
 
@@ -24,7 +24,7 @@ $ git clone https://github.com/ChHsiching/8086-Assembly-DevEnv.git
 
 ## 📝 Blog Post Forward
 
-> Fwd: [[搭建x86汇编语言学习环境]](http://blog.csdn.net/sxhelijian/article/details/54845039)
+> Fwd: [搭建x86汇编语言学习环境](http://blog.csdn.net/sxhelijian/article/details/54845039)
 
 ### Designing an Instruction Set Architecture (ISA) Teaching Plan: A Start with 8086 Assembly 
 
@@ -74,4 +74,4 @@ From this point forward, only steps 3 and 4 will be necessary.
 
 ## 📜 License
 
-This repository is based on an original article titled '[搭建x86汇编语言学习环境](https://blog.csdn.net/sxhelijian/article/details/54845039)' by [[贺利坚]](https://helijian.blog.csdn.net/?type=blog), which has been republished under the terms of the [CC-BY-4.0]((https://creativecommons.org/licenses/by/4.0/)) license and is available at [https://blog.csdn.net/sxhelijian/article/details/54845039].
+This repository is based on an original article titled '[搭建x86汇编语言学习环境](https://blog.csdn.net/sxhelijian/article/details/54845039)' by [贺利坚](https://helijian.blog.csdn.net/?type=blog), which has been republished under the terms of the [CC-BY-4.0]((https://creativecommons.org/licenses/by/4.0/)) license and is available at https://blog.csdn.net/sxhelijian/article/details/54845039.
